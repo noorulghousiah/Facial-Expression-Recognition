@@ -21,6 +21,6 @@ OTHER FILE PURPOSES:
 
 - "MainFile - machine learning" : a file that evaluates the overall categorisation of the machine learning model. This file is also used to get the machine learning model pkl files (kmean.pkl, nonlinear_svm_model.pkl)
 
-- "Subfile - PCA and Supervised model evaluation" : a file to preprocess training and testing image data using PCA, for further training and testing purposes. (to get pca_modelall265.pkl, X_train_pca.pkl, y_train.pkl, X_test_pca.pkl, y_test.pkl)
+- "Subfile - PCA and Supervised model evaluation" : a file to preprocess training and testing image data from 'Kaggle' using PCA, for further training and testing purposes. (to get pca_modelall265.pkl, X_train_pca.pkl, y_train.pkl, X_test_pca.pkl, y_test.pkl)
 
 This is a group project made by our team: Noorul Ghousiah; Nurain Ainaa Aqilah
